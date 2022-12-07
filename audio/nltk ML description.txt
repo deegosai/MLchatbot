@@ -1,0 +1,3 @@
+first need to install the nltk download then need to install requirements.txt
+=> python -m nltk.downloader
+=> pip install -r requirements.txt
